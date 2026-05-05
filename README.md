@@ -20,7 +20,7 @@ System architecture has to scale across these tasks. For base case, design of th
 
 ## 🖥️ System approach 
 
-
+![system approach](GC estimating.jpg)
 
 ###### Playbooks
 These are modular blocks representing SoPs. The intent is to have comprehensive SoPs for all kind of projects dealt by GC estimators.
